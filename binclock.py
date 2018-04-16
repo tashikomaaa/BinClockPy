@@ -1,8 +1,5 @@
 #! /usr/bin/env python2
 
-# binclock
-# written by Brian Gajdos <brian@linuxee.sk>, 2001
-
 import curses
 import _curses
 import math
